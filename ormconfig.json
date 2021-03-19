@@ -1,0 +1,11 @@
+{
+  "type": "sqlite",
+  "database": "data/rocketseat.db",
+  "logging": true,
+  "entities": [
+    "/home/oem/Documents/Estudo/NestJs-API/back-end/src/db/models/*"
+  ],
+  "migrations": [
+    "/home/oem/Documents/Estudo/NestJs-API/back-end/src/db/migrations/*"
+  ]
+}
